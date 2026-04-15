@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Georgia, US",
+  "export_job_id": "e6e732b9-59b9-445b-8467-4cdefbaaf231",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 948206,
+  "location_name": "Georgia",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-georgia-us-sample-948206",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/948206/beamstation_948206_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 8.54,
+  "sample_records": 28,
+  "sample_sha256": "616748eec3e58a53cc8b6fbb84fc6b12a6b428bc68eeee54935c66472d1ea4a5",
+  "sample_size_bytes": 112610,
+  "total_records": 328,
+  "updated_at": "2026-04-08T08:01:19.115461+00:00"
+}
