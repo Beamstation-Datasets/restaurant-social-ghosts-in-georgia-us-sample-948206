@@ -9,9 +9,9 @@
 | Dataset ID | `948206` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 328 records |
-| Free sample size | 28 records (8.54%) |
-| Last export | 2026-04-08T08:01:19.115461+00:00 |
+| Full dataset size | 289 records |
+| Free sample size | 28 records (9.69%) |
+| Last export | 2026-04-15T11:10:43.359685+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-georgia-us-sample-948206/releases/download/sample-latest/beamstation_948206_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
