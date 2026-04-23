@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bad27d97-e940-4847-8bb5-2327729c4aae",
+  "export_job_id": "e4b9ef2f-ec97-41d0-a4d3-cce6cbe01685",
   "id_short": 948206,
-  "published_at": "2026-04-19T07:42:46Z",
+  "published_at": "2026-04-23T07:35:01Z",
   "repo_name": "restaurant-social-ghosts-in-georgia-us-sample-948206",
   "sample_asset_name": "beamstation_948206_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/948206/beamstation_948206_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "616748eec3e58a53cc8b6fbb84fc6b12a6b428bc68eeee54935c66472d1ea4a5",
-  "sample_size_bytes": 112610,
-  "total_records": 289
+  "sample_records": 4,
+  "sample_sha256": "e19b84cbeef0b70ce8a39030b58384ef910c439db46abc6e2577c7c201df8c01",
+  "sample_size_bytes": 29640,
+  "total_records": 49
 }
