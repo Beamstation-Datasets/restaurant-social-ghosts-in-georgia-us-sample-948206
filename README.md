@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Georgia, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `948206` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 49 records |
-| Free sample size | 4 records (8.16%) |
-| Last export | 2026-04-22T19:17:40.657868+00:00 |
+| Full dataset size | 150 records |
+| Free sample size | 15 records (10.0%) |
+| Last export | 2026-04-29T18:30:43.943581+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-georgia-us-sample-948206/releases/download/sample-latest/beamstation_948206_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
